@@ -1,8 +1,11 @@
-import React from 'react';
-import logo from './logo.svg';
+// Import React and Component
+import React, { Component } from 'react';
+// Import CSS from App.css
 import './App.css';
-import { render } from '@testing-library/react';
-
+// Import the Today component to be used below
+import Today from './Today/Today';
+// Import the History component to be used below
+import History from './History/History';
 
 
 
