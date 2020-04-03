@@ -54,3 +54,5 @@ class Today extends Component {
     )
   }
 }
+
+export default Today;

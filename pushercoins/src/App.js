@@ -8,8 +8,6 @@ import Today from './Today/Today';
 import History from './History/History';
 
 
-
-
 class App extends Component {
   render() {
     return (
@@ -21,7 +19,7 @@ class App extends Component {
                 <span className="navbar-item">PusherCoins</span>
               </div>
               <div className="navbar-end">
-                <a className="navbar-item" href="https://pusher.com" target="_blank" rel="noopener noreference">Pusher.com</a>
+                <a className="navbar-item" href="https://pusher.com" target="_blank" rel="noopener noreferrer">Pusher.com</a>
               </div>
             </nav>
           </header>
